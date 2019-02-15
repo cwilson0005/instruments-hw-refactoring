@@ -48,4 +48,4 @@ class InstrumentFamilyView {
   }
 }
 
-export {InstrumentFamilyView};
+export default InstrumentFamilyView;

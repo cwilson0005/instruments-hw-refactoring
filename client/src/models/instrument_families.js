@@ -20,4 +20,4 @@ class InstrumentFamilies {
   }
 }
 
-export {InstrumentFamilies};
+export default InstrumentFamilies;

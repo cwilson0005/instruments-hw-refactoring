@@ -11,4 +11,4 @@ const PubSub = {
   }
 };
 
-export {PubSub};
+export default PubSub;
