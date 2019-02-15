@@ -18,4 +18,3 @@ class InstrumentFamilies {
     PubSub.publish('InstrumentFamilies:selected-family-ready', selectedFamily);
   }
 }
-module.exports = InstrumentFamilies;
